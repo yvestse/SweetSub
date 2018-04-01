@@ -10,7 +10,7 @@
 | Flip Flappers                | 轻拍翻转小魔女    | フリップフラッパーズ            | 13 集正片 / BD 字幕                                          |
 | Little Witch Academia (2017) | 小魔女学园 (2017) | リトルウィッチアカデミア (2017) | (已坑) TV 字幕                                               |
 | Made in Abyss (S1)           | 来自深渊 (第一季) | メイドインアビス (S1)           | 13 集正片 + 制作纪实（[B 站](https://www.bilibili.com/video/av19676043)） / BD 字幕 |
-| DARLING in the FRANXX        | 比翼之吻          | ダーリン・イン・ザ・フランキス  | 连载中 / [字幕](TV Series\DARLING in the FRANXX)             |
+| DARLING in the FRANXX        | 比翼之吻          | ダーリン・イン・ザ・フランキス  | 连载中 / [字幕](TV Series/DARLING in the FRANXX)             |
 
 
 
