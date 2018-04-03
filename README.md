@@ -37,7 +37,7 @@ SweetSub 的字幕默认采用<a rel="license" href="http://creativecommons.org/
 
 #### 详细解释
 
-- 署名：在转载和使用时，明确清晰地指出是 SweetSub 的字幕，并且附带 GitHub 链接（https://github.com/tastysugar/SweetSub），同时保留在字幕文件中的字幕制作人员信息。
+- 署名：在转载和使用时，明确清晰地指出是 SweetSub 的字幕，同时保留在字幕文件中的字幕制作人员信息，并且在发布网站允许附带链接时，附带 GitHub 链接（ https://github.com/tastysugar/SweetSub ）。
   - 附带 GitHub 链接的理由是为了防止字幕有修订的情况。在 GitHub 里的字幕版本一定是最新版。
 - 在署名、非商业使用、没有修改的情况下可以随意的转载和使用 SweetSub 的字幕。
   - 但是，连载中的动画字幕是半成品，即在本页面标注了“连载中”字幕。这些字幕将会在连载结束、合集的时候重新精校，如果要转载使用连载中的字幕。请务必注意这一点。
