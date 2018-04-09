@@ -40,9 +40,9 @@ SweetSub
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
 
-SweetSub 的字幕在二次使用时默认遵从<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a> （Creative Common BY-NC-ND 4.0） 。
+SweetSub 的字幕在二次使用时默认遵从<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a> （Creative Common BY-NC-ND 4.0） ，在遵循规则的情况下可以自由转载、使用。
 
-但是，对于调整时间轴用于匹配自己的不同片源的小伙伴，遵循<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>（Creative Common BY-NC-SA 4.0）。
+但是，对于调整时间轴用于匹配自己的不同片源的小伙伴，可以例外在署名、非商业使用的情况下，调整时间轴，自由转载、使用。
 
 
 
@@ -52,15 +52,15 @@ SweetSub 的字幕在二次使用时默认遵从<a rel="license" href="http://cr
 
 - 署名
 
-  - 在转载和使用时，明确清晰地指出是 SweetSub 的字幕，同时保留在字幕文件中的字幕制作人员信息，并且在发布网站允许附带链接时，附带 GitHub 链接（ https://github.com/tastysugar/SweetSub ）。
-  - 附带 GitHub 链接的理由是因为在 GitHub 里的字幕版本一定是最新版，如果字幕出现了修订的情况，我会第一时间上传到这里。
-  - 例子：本视频采用了来自 SweetSub 的字幕（https://github.com/tastysugar/SweetSub）
+  - 在转载和使用时，明确清晰地指出是 SweetSub 的字幕（不要使用比发布帖正文更小的字体），同时保留在字幕文件中的字幕制作人员信息。
+  - 例子 1：字幕由 SweetSub 提供。
+  - 例子 2：字幕源自 SweetSub，经调轴后内嵌在视频里。
 
 - 连载中
 
   - 在本页面标注了“**连载中**”的动画字幕是半成品。这些字幕将会在连载结束、合集的时候重新精校，如果要转载、使用连载中的字幕。请务必注意这一点。
 
-- 调轴
+- 调整时间轴
 
   - 在调整时间轴时最好不要仅使用 [sushi](https://github.com/tp7/Sushi) 调轴，因为 SweetSub 的字幕中包含很多屏幕字，这些屏幕字都是以帧为单位对齐画面的。sushi 的调轴基于音频，所以画面字不一定能对齐，需要手工调整——我知道大家觉得这麻烦，因此 SweetSub 的字幕在动画出了 BD 版之后，都**一定**会发布一个 BD 版的字幕。
 
