@@ -22,9 +22,9 @@ SweetSub
 | iMarine Project - DEEP BLUE SONG | 艾玛琳企划 - 深蓝颂歌                          | アイマリンプロジェクト               | 上下两集 [字幕](https://github.com/tastysugar/SweetSub/tree/master/iMarine%20Project%20-%20DEEP%20BLUE%20SONG) / B 站 [上篇](https://www.bilibili.com/video/av12357311) [下篇](https://www.bilibili.com/video/av13867789) |
 | Scutes on my mind                | 一隅之鳞                                       | かたすみの鱗                         | 字幕 / [B 站](https://www.bilibili.com/video/av13745318)     |
 | Children of Ether                | 以太之子                                       | -                                    | 字幕更新至 01 集 (连载中?) / [B 站](https://www.bilibili.com/video/av13728052) |
-| Blade Runner: Black Out 2022     | 银翼杀手：黑暗浩劫 2022                        | ブレードランナー ブラックアウト 2022 | 字幕对应日文配音 / [B 站](https://www.bilibili.com/video/av14873219) |
+| Blade Runner: Black Out 2022     | 银翼杀手：黑暗浩劫 2022                        | ブレードランナー ブラックアウト 2022 | [字幕](https://github.com/tastysugar/SweetSub/tree/master/Blade%20Runner%20Black%20Out%202022)对应日文配音 / [B 站](https://www.bilibili.com/video/av14873219) |
 | Sorcery in the Big City          | 恶作剧魔女与不夜城                             | いたずら魔女と眠らない街             | [字幕](https://github.com/tastysugar/SweetSub/tree/master/Sorcery%20in%20the%20Big%20City) / [B 站](https://www.bilibili.com/video/av16969177) |
-| -                                | 日本动画100周年纪念 『Anime NEXT_100』特别影片 | 『アニメNEXT_100』スペシャルムービー | 字幕 / [B 站](https://www.bilibili.com/video/av18583122)     |
+| -                                | 日本动画100周年纪念 『Anime NEXT_100』特别影片 | 『アニメNEXT_100』スペシャルムービー | [字幕](https://github.com/tastysugar/SweetSub/tree/master/Anime%20NEXT_100) / [B 站](https://www.bilibili.com/video/av18583122) |
 
 ### 關於繁化
 
