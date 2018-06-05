@@ -619,7 +619,7 @@ Dialogue: 0,0:19:40.67,0:19:42.78,Line EN,,0,0,0,,would like to present to you s
 Dialogue: 1,0:19:42.78,0:19:45.01,Line CN,,0,0,0,,關於如何在這個世界上生存
 Dialogue: 0,0:19:42.78,0:19:45.01,Line EN,,0,0,0,,the "this and that" on how to live in this universe.
 Dialogue: 0,0:19:43.03,0:19:49.37,Rect,,0,0,0,,{\fscx950\fscy1100\alpha30\blur10\pos(192,237.6)}■
-Dialogue: 1,0:19:43.03,0:19:49.37,Text,,0,0,0,,\h                    B班（23）\NU.Beviaqua: 話說 Takeshi 是不是\N\h                          喜歡 Emily？\NKAs: 真的嗎？！\NAkihiro: 真的是這樣嗎？！\NSt: 我都不知道！！\NRYO: 現在已經 Free 了吧？\NU.Beviaqua: 機會！！\NKAs: 機——會！！\NAkihiro: 加油！！\NU.Beviaqua: 過了這個村就沒了這個店！\NU.Beviaqua: 可不能放過這次機會\NT.K: 欸？\NT.K: 這是在說我嗎？\NU.Beviaqua: 會去的吧
+Dialogue: 1,0:19:43.03,0:19:49.37,Text,,0,0,0,,\h                    B班（23）\NU.Beviaqua: 話說 Takeshi 是不是\N\h                          喜歡 Emily？\NKAs: 真的嗎？！\NAkihiro: 真的是這樣嗎？！\NSt: 我都不知道！！\NRYO: 現在已經 Free 了吧？\NU.Beviaqua: 機會！！\NKAs: 機——會！！\NAkihiro: 加油！！\NU.Beviaqua: 過了這個村就沒了這個店！\NU.Beviaqua: 可不能放過這次機會\NTK: 欸？\NTK: 這是在說我嗎？\NU.Beviaqua: 會去的吧
 Dialogue: 1,0:19:45.01,0:19:46.38,Line CN,,0,0,0,,你們會被測試
 Dialogue: 0,0:19:45.01,0:19:46.38,Line EN,,0,0,0,,You will be tested on it,
 Dialogue: 1,0:19:46.38,0:19:48.45,Line CN,,0,0,0,,甚至每天的生活本身就是測試
@@ -629,7 +629,7 @@ Dialogue: 0,0:19:48.45,0:19:50.62,Line EN,,0,0,0,,-Yes. You over there. -Uh...
 Dialogue: 1,0:19:50.62,0:19:52.29,Line CN,,0,0,0,,回答錯誤
 Dialogue: 0,0:19:50.62,0:19:52.29,Line EN,,0,0,0,,Wrong answer.
 Dialogue: 0,0:19:52.00,0:20:04.25,Rect,,0,0,0,,{\fscx950\fscy1400\alpha30\blur10\pos(193.6,290.4)}■
-Dialogue: 1,0:19:52.00,0:20:04.25,Text,,0,0,0,,\h                    B班（23）\NU.Beviaqua: 反正 Free 了\NT.K: 蛤？\NAkihiro: 是的 因為 Free 了\N安東: Free!\NTK: 喂 等等\NU.Beviaqua: 你是不會做出不好好利用\N\h                          Free 的那種沒勁事吧？\N安東: 那麼——Take 醬怎麼做？\NTK: 你們這些人\NU.Beviaqua: 只能利用好 Free 了！\NAkihiro: 好好利用吧！！\N安東: 這樣美味的 Free 可是很難得的哦！\NKAs: 同意\N安東: Free 好啊，Free 真是好！\NU.Beviaqua: Freefree 喔 Freefree\NKAs: Furifuri\NAkihiro: Furifuri?\N安東: Furikuri?
+Dialogue: 1,0:19:52.00,0:20:04.25,Text,,0,0,0,,\h                    B班（23）\NU.Beviaqua: 反正 Free 了\NTK: 蛤？\NAkihiro: 是的 因為 Free 了\N安東: Free!\NTK: 喂 等等\NU.Beviaqua: 你是不會做出不好好利用\N\h                          Free 的那種沒勁事吧？\N安東: 那麼——Take 醬怎麼做？\NTK: 你們這些人\NU.Beviaqua: 只能利用好 Free 了！\NAkihiro: 好好利用吧！！\N安東: 這樣美味的 Free 可是很難得的哦！\NKAs: 同意\N安東: Free 好啊，Free 真是好！\NU.Beviaqua: Freefree 喔 Freefree\NKAs: Furifuri\NAkihiro: Furifuri?\N安東: Furikuri?
 Dialogue: 1,0:19:52.29,0:19:54.09,Line CN,,0,0,0,,我最近想明白了
 Dialogue: 0,0:19:52.29,0:19:54.09,Line EN,,0,0,0,,I figured out something recently.
 Dialogue: 1,0:19:54.09,0:19:55.69,Line CN,,0,0,0,,與其為了隨機的問題
