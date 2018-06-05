@@ -35,48 +35,48 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情况下想要�
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,同时请注意，在合集时会有修正版字幕发布。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在字幕中发现了错误或者有其它问题，可以使用 telegram 联系我，详细方法见动漫花园发布页。
 Dialogue: 1,0:00:00.00,0:00:06.60,Insert CN,,0,0,0,,{\blur2\fad(200,200)}『Thank you, my twilight』— the Pillows
-Dialogue: 1,0:00:16.95,0:00:21.55,Line CN,,0,0,0,,世界必须先被毁灭 之后才能变得美丽
-Dialogue: 0,0:00:16.95,0:00:21.55,Line EN,,0,0,0,,The world must be destroyed before it can become beautiful.
+Dialogue: 1,0:00:16.95,0:00:20.80,Line CN,,0,0,0,,世界必须先被毁灭 之后才能变得美丽
+Dialogue: 0,0:00:16.95,0:00:20.80,Line EN,,0,0,0,,The world must be destroyed before it can become beautiful.
 Dialogue: 1,0:00:18.60,0:00:22.80,Insert JP,,0,0,0,,{\blur2\fad(200,200)}Life, Life is beautiful
 Dialogue: 2,0:00:18.60,0:00:22.80,Insert CN,,0,0,0,,{\blur2\fad(200,200)}生命，生命如此美丽
-Dialogue: 1,0:00:21.55,0:00:24.42,Line CN,,0,0,0,,这是我在心中描绘的世界的愿景
-Dialogue: 0,0:00:21.55,0:00:24.42,Line EN,,0,0,0,,This is the world I envisioned.
+Dialogue: 1,0:00:21.55,0:00:23.48,Line CN,,0,0,0,,这是我在心中描绘的世界的愿景
+Dialogue: 0,0:00:21.55,0:00:23.48,Line EN,,0,0,0,,This is the world I envisioned.
 Dialogue: 1,0:00:23.34,0:00:29.45,Insert JP,,0,0,0,,{\blur2\fad(200,200)}僕のルーレット　回り続けてる
 Dialogue: 2,0:00:23.34,0:00:29.45,Insert CN,,0,0,0,,{\blur2\fad(200,200)}我的轮盘 会一直转动下去
 Dialogue: 1,0:00:24.42,0:00:27.39,Line CN,,0,0,0,,这是世界应有的样子
 Dialogue: 0,0:00:24.42,0:00:27.39,Line EN,,0,0,0,,This is how the world should be.
-Dialogue: 1,0:00:27.39,0:00:29.82,Line CN,,0,0,0,,但在这个世界里
-Dialogue: 0,0:00:27.39,0:00:29.82,Line EN,,0,0,0,,But in this world,
-Dialogue: 1,0:00:29.82,0:00:32.19,Line CN,,0,0,0,,只有我的身体在腐烂
-Dialogue: 0,0:00:29.82,0:00:32.19,Line EN,,0,0,0,,only my body is rotting --
+Dialogue: 1,0:00:27.39,0:00:29.16,Line CN,,0,0,0,,但在这个世界里
+Dialogue: 0,0:00:27.39,0:00:29.16,Line EN,,0,0,0,,But in this world,
+Dialogue: 1,0:00:29.82,0:00:31.50,Line CN,,0,0,0,,只有我的身体在腐烂
+Dialogue: 0,0:00:29.82,0:00:31.50,Line EN,,0,0,0,,only my body is rotting --
 Dialogue: 1,0:00:31.02,0:00:35.31,Insert JP,,0,0,0,,{\blur2\fad(200,200)}She, She is wonderful
 Dialogue: 2,0:00:31.02,0:00:35.31,Insert CN,,0,0,0,,{\blur2\fad(200,200)}她，她是这般美妙
-Dialogue: 1,0:00:32.19,0:00:34.80,Line CN,,0,0,0,,渐渐朽坏
-Dialogue: 0,0:00:32.19,0:00:34.80,Line EN,,0,0,0,,becoming decayed.
-Dialogue: 1,0:00:34.80,0:00:37.33,Line CN,,0,0,0,,没错 它正在朽坏
-Dialogue: 0,0:00:34.80,0:00:37.33,Line EN,,0,0,0,,Yes, decaying.
+Dialogue: 1,0:00:32.19,0:00:33.76,Line CN,,0,0,0,,渐渐朽坏
+Dialogue: 0,0:00:32.19,0:00:33.76,Line EN,,0,0,0,,becoming decayed.
+Dialogue: 1,0:00:34.80,0:00:36.22,Line CN,,0,0,0,,没错 它正在朽坏
+Dialogue: 0,0:00:34.80,0:00:36.22,Line EN,,0,0,0,,Yes, decaying.
 Dialogue: 1,0:00:35.31,0:00:42.06,Insert JP,,0,0,0,,{\blur2\fad(200,200)}その瞳に今を映したい
 Dialogue: 2,0:00:35.31,0:00:42.06,Insert CN,,0,0,0,,{\blur2\fad(200,200)}想要让她的眼睛 映照出现在
-Dialogue: 1,0:00:37.33,0:00:41.44,Line CN,,0,0,0,,也许这是我原本该有的样貌{PV原文: これが私のあるべき姿だったんのかもしれない}
-Dialogue: 0,0:00:37.33,0:00:41.44,Line EN,,0,0,0,,Maybe this is how my body should have been.
-Dialogue: 1,0:00:41.44,0:00:49.54,Line CN,,0,0,0,,也许这才是真正的我
-Dialogue: 0,0:00:41.44,0:00:49.54,Line EN,,0,0,0,,Maybe this is my true self.
+Dialogue: 1,0:00:37.33,0:00:40.06,Line CN,,0,0,0,,也许这是我原本该有的样貌{PV原文: これが私のあるべき姿だったんのかもしれない}
+Dialogue: 0,0:00:37.33,0:00:40.06,Line EN,,0,0,0,,Maybe this is how my body should have been.
+Dialogue: 1,0:00:41.44,0:00:43.52,Line CN,,0,0,0,,也许这才是真正的我
+Dialogue: 0,0:00:41.44,0:00:43.52,Line EN,,0,0,0,,Maybe this is my true self.
 Dialogue: 1,0:00:43.02,0:00:47.56,Insert JP,,0,0,0,,{\blur2\fad(200,200)}迷わないでもぎ取った予感を
 Dialogue: 2,0:00:43.02,0:00:47.56,Insert CN,,0,0,0,,{\blur2\fad(200,200)}毫不犹豫抓住的预感
 Dialogue: 1,0:00:49.54,0:00:52.61,Line CN,,0,0,0,,但我最后还是想起
 Dialogue: 0,0:00:49.54,0:00:52.61,Line EN,,0,0,0,,But then finally, I remember
 Dialogue: 1,0:00:49.54,0:00:56.54,Insert JP,,0,0,0,,{\blur2\fad(200,200)}誰かと待ち合わせてるみたいに
 Dialogue: 2,0:00:49.54,0:00:56.54,Insert CN,,0,0,0,,{\blur2\fad(200,200)}好像在等待着谁似的
-Dialogue: 1,0:00:52.61,0:00:56.28,Line CN,,0,0,0,,我还只是一个初中生
-Dialogue: 0,0:00:52.61,0:00:56.28,Line EN,,0,0,0,,that I'm still only a junior high student,
-Dialogue: 1,0:00:56.28,0:00:59.62,Line CN,,0,0,0,,我并没思考过什么
-Dialogue: 0,0:00:56.28,0:00:59.62,Line EN,,0,0,0,,that I wasn't thinking about anything,
+Dialogue: 1,0:00:52.61,0:00:55.47,Line CN,,0,0,0,,我还只是一个初中生
+Dialogue: 0,0:00:52.61,0:00:55.47,Line EN,,0,0,0,,that I'm still only a junior high student,
+Dialogue: 1,0:00:56.28,0:00:58.70,Line CN,,0,0,0,,我并没思考过什么
+Dialogue: 0,0:00:56.28,0:00:58.70,Line EN,,0,0,0,,that I wasn't thinking about anything,
 Dialogue: 1,0:00:56.54,0:01:02.18,Insert JP,,0,0,0,,{\blur2\fad(200,200)}見えたなら間違いじゃない
 Dialogue: 2,0:00:56.54,0:01:02.18,Insert CN,,0,0,0,,{\blur2\fad(200,200)}如果看到就肯定不会有错
 Dialogue: 1,0:00:59.62,0:01:03.22,Line CN,,0,0,0,,还有 这里从不曾发生什么了不起的事情
 Dialogue: 0,0:00:59.62,0:01:03.22,Line EN,,0,0,0,,and that nothing amazing has ever happened here.
-Dialogue: 1,0:01:03.22,0:01:05.86,Line CN,,0,0,0,,一切都是那么平凡
-Dialogue: 0,0:01:03.22,0:01:05.86,Line EN,,0,0,0,,Everything is ordinary.
+Dialogue: 1,0:01:03.22,0:01:05.64,Line CN,,0,0,0,,一切都是那么平凡
+Dialogue: 0,0:01:03.22,0:01:05.64,Line EN,,0,0,0,,Everything is ordinary.
 Dialogue: 1,0:01:04.37,0:01:07.78,Insert JP,,0,0,0,,{\blur2\fad(200,200)}キミを待ってたんだ
 Dialogue: 2,0:01:04.37,0:01:07.78,Insert CN,,0,0,0,,{\blur2\fad(200,200)}一直在等你
 Dialogue: 1,0:01:18.76,0:01:23.20,Insert JP,,0,0,0,,{\blur2\fad(200,200)}She, She is wonderful
@@ -646,7 +646,7 @@ Dialogue: 0,0:20:04.10,0:20:07.00,Line EN,,0,0,0,,and you who have absolutely no
 Dialogue: 1,0:20:07.00,0:20:09.70,Line CN - Top,,0,0,0,,我付出了那么多 但是成果少得可怜
 Dialogue: 0,0:20:07.00,0:20:09.70,Line EN - Top,,0,0,0,,I gave so, so much, but there was very little output.
 Dialogue: 1,0:20:09.70,0:20:12.91,Line CN - Top,,0,0,0,,微不足道只能供人玩乐的小虫子对我毫无价值
-Dialogue: 0,0:20:09.70,0:20:12.91,Line EN - Top,,0,0,0,,I have no use for the tiny pieces of scum bugs that have been toyed with. 
+Dialogue: 0,0:20:09.70,0:20:12.91,Line EN - Top,,0,0,0,,I have no use for the tiny pieces of scum bugs that have been toyed with.
 Dialogue: 1,0:20:10.90,0:20:12.86,Line CN,,950,0,0,,Furi…kuri…
 Dialogue: 0,0:20:10.90,0:20:12.86,Line EN,,950,0,0,,Fooly...Cooly...
 Dialogue: 1,0:20:12.96,0:20:17.71,Line CN,,0,0,0,,听你们老师一言 我不希望你们成为不存在的孩子
@@ -670,8 +670,8 @@ Dialogue: 0,0:20:35.81,0:20:42.59,TopLeft,,0,0,0,,Furi Kuri 和 FLCL 的刷屏
 Dialogue: 0,0:20:34.70,0:20:36.73,Line EN,,0,0,0,,gathering underneath a weeping willow tree.
 Dialogue: 1,0:20:36.73,0:20:38.77,Line CN,,0,0,0,,你们的下方有强大的重力
 Dialogue: 0,0:20:36.73,0:20:38.77,Line EN,,0,0,0,,There's a lot of gravity underneath all of you...
-Dialogue: 1,0:20:41.67,0:20:46.32,Line CN,,0,0,0,,所以站起来！你们就越差强人意越好 最好变成一团糟 
-Dialogue: 0,0:20:41.65,0:20:46.32,Line EN,,0,0,0,,...so stand up! Be as adequate as you can, a complete mess, 
+Dialogue: 1,0:20:41.67,0:20:46.32,Line CN,,0,0,0,,所以站起来！你们就越差强人意越好 最好变成一团糟
+Dialogue: 0,0:20:41.65,0:20:46.32,Line EN,,0,0,0,,...so stand up! Be as adequate as you can, a complete mess,
 Dialogue: 1,0:20:46.32,0:20:48.79,Line CN,,0,0,0,,生来注定平庸！
 Dialogue: 0,0:20:46.32,0:20:48.79,Line EN,,0,0,0,,born to be mild!
 Dialogue: 1,0:21:12.40,0:21:14.90,Line CN,,0,0,0,,这就对了 我想要的终于要出现了 {PV原文:ようやくほんめい登場だぜ}
