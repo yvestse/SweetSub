@@ -572,7 +572,7 @@ Dialogue: 0,0:18:29.17,0:18:31.31,Line EN,,0,0,0,,You know, Mommy was so worried
 Dialogue: 1,0:18:31.31,0:18:33.70,Line CN,,0,0,0,,以为你要离家出走呢
 Dialogue: 0,0:18:31.31,0:18:33.70,Line EN,,0,0,0,,that maybe you decided to run away from home.
 Dialogue: 1,0:18:31.68,0:18:35.31,Insert JP,,0,0,0,,{\blur2\fad(200,200)}With the kids sing out the future
-Dialogue: 2,0:18:31.68,0:18:35.31,Insert CN,,0,0,0,,{\blur2\fad(200,200)}孩子们歌词着未来
+Dialogue: 2,0:18:31.68,0:18:35.31,Insert CN,,0,0,0,,{\blur2\fad(200,200)}孩子们歌唱着未来
 Dialogue: 1,0:18:35.31,0:18:39.08,Insert JP,,0,0,0,,{\blur2\fad(200,200)}Maybe, kids don't need the masters
 Dialogue: 2,0:18:35.31,0:18:39.08,Insert CN,,0,0,0,,{\blur2\fad(200,200)}也许孩子们不需要主人
 Dialogue: 1,0:18:36.54,0:18:38.35,Line CN,,0,0,0,,但是如果真的要离家出走
