@@ -36,6 +36,13 @@ Style: sign_31763_303_Strelizia_Apath,方正准雅宋_GBK,60,&H00FFFFFB,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕由 SweetSub 制作
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕在遵循 Creative Common BY-NC-ND 4.0 规则的情况下可以自由转载、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,即，在署名、非商业利用、不进行修改的情况下可以自由转载使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是仅仅是修改时间轴匹配自己的片源的话，可以作为例外，在署名、非商业利用的情况下，可以自由转载、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情况下想要转载和使用本字幕，可以通过 telegram 联系我。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,同时请注意，在合集时会有修正版字幕发布。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在字幕中发现了错误或者有其它问题，可以使用 telegram 联系我，详细方法见动漫花园发布页。
 Dialogue: 0,0:00:01.25,0:00:03.81,Default,ChiefandVice,0,0,0,,这是 VIRM 的意志
 Dialogue: 0,0:00:03.81,0:00:10.41,Default,ViceChief,0,0,0,,星实体是会扰乱宇宙秩序的生命聚集体
 Dialogue: 0,0:00:03.81,0:00:10.41,Ruby,ViceChief,0,0,0,,{\pos(560,980)}Star Entity

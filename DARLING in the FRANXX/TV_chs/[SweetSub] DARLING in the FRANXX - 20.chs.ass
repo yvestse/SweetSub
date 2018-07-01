@@ -48,6 +48,13 @@ Style: ED4 - JP,Source Han Sans JP Medium,50,&H00FFFFFF,&H00000000,&H00000000,&H
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕由 SweetSub 制作
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕在遵循 Creative Common BY-NC-ND 4.0 规则的情况下可以自由转载、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,即，在署名、非商业利用、不进行修改的情况下可以自由转载使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是仅仅是修改时间轴匹配自己的片源的话，可以作为例外，在署名、非商业利用的情况下，可以自由转载、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情况下想要转载和使用本字幕，可以通过 telegram 联系我。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,同时请注意，在合集时会有修正版字幕发布。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在字幕中发现了错误或者有其它问题，可以使用 telegram 联系我，详细方法见动漫花园发布页。
 Dialogue: 0,0:00:02.42,0:00:03.93,Default,N7,0,0,0,,在刚才的战斗中
 Dialogue: 0,0:00:03.93,0:00:06.74,Default,N7,0,0,0,,我们成功镇压了大冰隙
 Dialogue: 0,0:00:03.93,0:00:06.74,Ruby,N7,0,0,0,,{\pos(1166,980)}Gran Crevasse

@@ -45,6 +45,13 @@ Style: sign_Horizontal - B,方正细雅宋_GBK,60,&H00F39E11,&H000019FF,&H00ADAB
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕由 SweetSub 製作
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕在遵循 Creative Common BY-NC-ND 4.0 規則的情況下可以自由轉載、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,即，在署名、非商業利用、不進行修改的情況下可以自由轉載使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是僅僅是修改時間軸匹配自己的片源的話，可以作為例外，在署名、非商業利用的情況下，可以自由轉載、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情況下想要轉載和使用本字幕，可以通過 telegram 聯繫我。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,同時請注意，在合集時會有修正版字幕發布。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在字幕中發現了錯誤或者有其它問題，可以使用 telegram 聯繫我，詳細方法見動漫花園發布頁。
 Dialogue: 3,0:00:00.00,0:00:04.35,sign_Horizontal_2,Sign,0,0,0,,沒有人能兩次踏入同一條河流
 Dialogue: 2,0:00:00.00,0:00:04.35,sign_Horizontal - B,Sign,0,0,0,,{\blur2\pos(963.429,418.857)}沒有人能兩次踏入同一條河流
 Dialogue: 1,0:00:00.00,0:00:04.35,sign_Horizontal - R,Sign,0,0,0,,{\blur2\pos(957,421)}沒有人能兩次踏入同一條河流
